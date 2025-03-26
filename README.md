@@ -1,8 +1,8 @@
 # 🚀 People Counter Web App
-![Page](assets/Project_Preview/page.png)
+![Page](assets/ProjectPreview/page.png)
 
 ## 📌 Project Overview
-This project is a **basic and interactive** web application developed using **HTML and JavaScript**. The goal is to create a simple interface that counts the number of people entering and exiting a space, helping to track the total count effectively.
+This project is a **basic and interactive** web application developed using **HTML , CSS and JavaScript**. The goal is to create a simple interface that counts the number of people entering and exiting a space, helping to track the total count effectively.
 
 ## ✨ Features
 ✅ **Increment and Decrement Counter** – Add or subtract people with one click  
